@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://github.com/malviyashreekant/malviyashreekant/blob/main/wave.gif" width="30px"> I am Shreekant Malviya
 I am from Ujjain, India currently living in Philadelphia, USA. I am Graduate student at Drexel University. My major is Information Systems and my minor is Applied Data Science. Actively looking for jobs in the field field of Data Science, Data Analysis/Analytics, Machine Learning, and Business Intelligence.
 
-# 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 
 • Programming: Python, R, JAVA, C, C++, HTML, CSS, SQL, PL/SQL
 
