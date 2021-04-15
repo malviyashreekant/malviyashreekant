@@ -15,8 +15,8 @@ I am from Ujjain, India currently living in Philadelphia, USA. I am Graduate stu
 
 • Project Management: Microsoft Visio Professional, Agile Framework, SCRUM, Kanban, Microsoft Project, Microsoft Office Suite
 
+<details>
 <summary>📊 Github Stats</summary>
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=malviyashreekant&show_icons=true&theme=dracula" alt="Shreekant Malviya | Stats" />
-
 </details>
+
