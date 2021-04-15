@@ -22,7 +22,7 @@ I am from Ujjain, India currently living in Philadelphia, USA. I am Graduate stu
 
 <details>
 <summary>📊 Github Stats</summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=malviyashreekant&show_icons=true&theme=dracula" alt="Shreekant Malviya | Stats" />
+[Shreekant's GitHub stats](https://github-readme-stats.vercel.app/api?username=malviyashreekant&show_icons=true&theme=dracula)
 </details>
 
 [LinkedIn]:https://www.linkedin.com/in/shreekantmalviya/
