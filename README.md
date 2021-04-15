@@ -3,17 +3,17 @@ I am from Ujjain, India currently living in Philadelphia, USA. I am Graduate stu
 
 ## 🔧 Technologies & Tools
 
-*Programming: Python, R, JAVA, C, C++, HTML, CSS, SQL, PL/SQL
+* Programming: Python, R, JAVA, C, C++, HTML, CSS, SQL, PL/SQL
 
-*Machine Learning: Linear Regression, Logistic Regression, Naïve Bayes, Decision Tree, K-Nearest Neighbor, Hierarchical Clustering, Support Vector Machine, Natural Language Processing
+* Machine Learning: Linear Regression, Logistic Regression, Naïve Bayes, Decision Tree, K-Nearest Neighbor, Hierarchical Clustering, Support Vector Machine, Natural Language Processing
 
-*Data Analytics: Matplotlib, Seaborn, ggplot, Plotly, Tableau, QlikView, Power BI, IBM Cognos, Visual Programming, KPI, A/B testing
+* Data Analytics: Matplotlib, Seaborn, ggplot, Plotly, Tableau, QlikView, Power BI, IBM Cognos, Visual Programming, KPI, A/B testing
 
-*Tools: Snowflake, Redshift, DataStage, Docker, Flask, Elasticsearch, Command Line, Jupyter, Git
+* Tools: Snowflake, Redshift, DataStage, Docker, Flask, Elasticsearch, Command Line, Jupyter, Git
 
-*Big Data: Hadoop, Hive, Pig, HBase, Azure, Apache Spark
+* Big Data: Hadoop, Hive, Pig, HBase, Azure, Apache Spark
 
-*Project Management: Microsoft Visio Professional, Agile Framework, SCRUM, Kanban, Microsoft Project, Microsoft Office Suite
+* Project Management: Microsoft Visio Professional, Agile Framework, SCRUM, Kanban, Microsoft Project, Microsoft Office Suite
 
 
 <details>
