@@ -1,4 +1,8 @@
 # Hello, folks! <img src="https://github.com/malviyashreekant/malviyashreekant/blob/main/wave.gif" width="30px"> I am Shreekant Malviya
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][Instagram]
+[<img height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][Facebook]
+
 I am from Ujjain, India currently living in Philadelphia, USA. I am Graduate student at Drexel University. My major is Information Systems and my minor is Applied Data Science. Actively looking for jobs in the field field of Data Science, Data Analysis/Analytics, Machine Learning, and Business Intelligence.
 
 ## 🔧 Technologies & Tools
@@ -21,3 +25,6 @@ I am from Ujjain, India currently living in Philadelphia, USA. I am Graduate stu
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=malviyashreekant&show_icons=true&theme=dracula" alt="Shreekant Malviya | Stats" />
 </details>
 
+[LinkedIn]:https://www.linkedin.com/in/shreekantmalviya/
+[Facebook]: https://www.facebook.com/ShreekantMalviya/
+[Instagram]: https://www.instagram.com/__shreekant__/
