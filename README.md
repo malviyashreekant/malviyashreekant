@@ -6,6 +6,9 @@
 
 Driven Data Science aspirant ready to thrive in demanding digital intelligence processing environments. Well-informed on the latest machine learning advancements. Willing to combine tireless hunger for new skills with the desire to exploit cutting-edge data science technology. I am from Ujjain, India currently living in Philadelphia, USA. I am Graduate student at Drexel University. My major is Information Systems and my minor is Applied Data Science. Actively looking for jobs in the field of Data Science, Data Analysis/Analytics, Machine Learning, and Business Intelligence.
 
+## Core Competencies: 
+Data Acquisition & Pre-Processing| Data Analysis & Interpretation| Data Mining & AB Testing| Data Modeling| Predictive Analysis| Time Series Analysis| Tableau & Visual Presentation| Performance Management| Risk Assessment & Mitigation| Project Management| Continous Process Management| Logical Problem Solving| Interpersonal Communication Skills| Strategic Planning & Implementation| Teamwork & Collaboration
+
 ## 🔧 Technologies & Tools
 
 *	Programming Skills: Python (Pandas, Numpy, Scikit-learn, NLTK), R, SQL, PL/SQL, JAVA, C, C++, HTML, CSS, Javascript
