@@ -8,17 +8,15 @@ Driven Data Science aspirant ready to thrive in demanding digital intelligence p
 
 ## 🔧 Technologies & Tools
 
-* Programming: Python, R, JAVA, C, C++, HTML, CSS, SQL, PL/SQL
+*	Programming Skills: Python (Pandas, Numpy, Scikit-learn, NLTK), R, SQL, PL/SQL, JAVA, C, C++, HTML, CSS, Javascript
+*	Data Visualization: Tableau, Power BI, Plotly, Matplotlib, Seaborn, ggplot2, QlikView, Google Analytics, IBM Cognos, Visual Programming
+*	Machine Learning: Supervised and Unsupervised Machine Learning Algorithms, Regression Analysis, Classification, Clustering
+*	Statistics: A/B Testing, Confidence & Predictive Intervals, Descriptive Analysis, Error Metrics, Random Sampling
+*	Tools: Alteryx, Snowflake, Redshift, DataStage, Docker, Flask, Elasticsearch, Command Line, Jupyter, Git
+*	Big Data: Hadoop, Hive, Pig, HBase, Azure, Apache Spark
+*	Project Management: Microsoft Visio Professional, Agile Framework, SCRUM, Kanban, Microsoft Project, Microsoft Office Suite
+*	Soft Skills: Excellent communication and presentation skiils, Problem Solving, Critical Thinking, Research, Integrity Skills, 
 
-* Machine Learning: Linear Regression, Logistic Regression, Naïve Bayes, Decision Tree, K-Nearest Neighbor, Hierarchical Clustering, Support Vector Machine, Natural Language Processing
-
-* Data Analytics: Matplotlib, Seaborn, ggplot, Plotly, Tableau, QlikView, Power BI, IBM Cognos, Visual Programming, KPI, A/B testing
-
-* Tools: Snowflake, Redshift, DataStage, Docker, Flask, Elasticsearch, Command Line, Jupyter, Git
-
-* Big Data: Hadoop, Hive, Pig, HBase, Azure, Apache Spark
-
-* Project Management: Microsoft Visio Professional, Agile Framework, SCRUM, Kanban, Microsoft Project, Microsoft Office Suite
 
 
 <!--
