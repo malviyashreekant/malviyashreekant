@@ -3,22 +3,23 @@
 [<img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][Instagram]
 [<img height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][Facebook]
 
+High-performing data engineer with sharp business acumen, pursuing an MBA to bridge technical and strategic leadership. I build intelligent systems and brands that connect data to human impact. 
 
-Driven Data Science aspirant ready to thrive in demanding digital intelligence processing environments. Well-informed on the latest machine learning advancements. Willing to combine tireless hunger for new skills with the desire to exploit cutting-edge data science technology. I am from Ujjain, India currently living in Philadelphia, USA. I am Graduate student at Drexel University. My major is Information Systems and my minor is Applied Data Science. Actively looking for jobs in the field of Data Science, Data Analysis/Analytics, Machine Learning, and Business Intelligence.
+I am passionate about driving continuous improvement and delivering results that exceed expectations while maintaining the highest professional standards. My experience and skills make me a valuable asset to any organization looking to use data to drive business success. 
 
-## Core Competencies: 
-Data Acquisition & Pre-Processing| Data Analysis & Interpretation| Data Mining & AB Testing| Data Modeling| Predictive Analysis| Time Series Analysis| Tableau & Visual Presentation| Performance Management| Risk Assessment & Mitigation| Project Management| Continous Process Management| Logical Problem Solving| Interpersonal Communication Skills| Strategic Planning & Implementation| Teamwork & Collaboration
 
-## 🔧 Technologies & Tools
+TECHNOLOGIES & TOOLS 🔧
+• Database & Data Warehouse: SQL, DB2, Snowflake, Netezza, DataBricks, Oracle, MySQL, SSRS, SSIS, SQLite, MS Access
+• Data Analytics: Tableau, Power BI, Plotly, ggplot2, Data Visualization, Data Acquisition & preprocessing 
+• Programming skills: Python (Pandas, NumPy, Scikit-learn, NLTK, Matplotlib, Seaborn), R, SAS 
+• Clouds: AWS, MS Azure, GCP
+• Scripting: Unix/Linux, Command-Line
+• Tools: Informatica, Squirrel, Aginity, Anaconda(Jupyter), Gitlab, MS Excel, Visual Studio, Jira 
+• Statistics: Error Metrics, Random Sampling, Predictive Modeling, Descriptive Modeling
+• Machine Learning: Linear regression, Logistic regression, Decision Tree, Ensemble, Support Vector Machines, K means, K-Nearest Neighbor, Neural Networks, Bagging, Boosting, Perceptron, Random Forest, Natural Language Processing 
 
-*	Programming Skills: Python (Pandas, Numpy, Scikit-learn, NLTK), R, SQL, PL/SQL, JAVA, C, C++, HTML, CSS, Javascript
-*	Data Visualization: Tableau, Power BI, Plotly, Matplotlib, Seaborn, ggplot2, QlikView, Google Analytics, IBM Cognos, Visual Programming
-*	Machine Learning: Supervised and Unsupervised Machine Learning Algorithms, Regression Analysis, Classification, Clustering
-*	Statistics: A/B Testing, Confidence & Predictive Intervals, Descriptive Analysis, Error Metrics, Random Sampling
-*	Tools: Alteryx, Snowflake, Redshift, DataStage, Docker, Flask, Elasticsearch, Command Line, Jupyter, Git
-*	Big Data: Hadoop, Hive, Pig, HBase, Azure, Apache Spark
-*	Project Management: Microsoft Visio Professional, Agile Framework, SCRUM, Kanban, Microsoft Project, Microsoft Office Suite
-*	Soft Skills: Excellent communication and presentation skiils, Problem Solving, Critical Thinking, Research, Integrity Skills, 
+SOFT SKILLS
+Effective Speaking and Presentation, Curious, Creative, Innovative, Critical thinking, Leadership, Teamwork & Collaboration 
 
 
 
