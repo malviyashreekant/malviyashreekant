@@ -1,7 +1,6 @@
 # Hello, folks! <img src="https://github.com/malviyashreekant/malviyashreekant/blob/main/wave.gif" width="30px"> I am Shreekant Malviya
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][Instagram]
-[<img height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][Facebook]
+
 
 As a Data Engineer with 6+ years of experience at Tata Consultancy Services, I specialize in building data warehouses using Snowflake, optimizing data governance frameworks, and designing real-time data ingestion pipelines. My work focuses on empowering organizations with efficient and reliable data systems by leveraging tools like Confluent Kafka and SQL for enhanced decision-making and operational efficiency.  
 
@@ -17,5 +16,4 @@ My mission is to enable ethical, scalable, and transparent data solutions that a
 -->
 
 [LinkedIn]:https://www.linkedin.com/in/shreekantmalviya/
-[Facebook]: https://www.facebook.com/ShreekantMalviya/
-[Instagram]: https://www.instagram.com/__shreekant__/
+
