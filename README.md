@@ -3,23 +3,9 @@
 [<img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][Instagram]
 [<img height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][Facebook]
 
-High-performing data engineer with sharp business acumen, pursuing an MBA to bridge technical and strategic leadership. I build intelligent systems and brands that connect data to human impact. 
+As a Data Engineer with 6+ years of experience at Tata Consultancy Services, I specialize in building data warehouses using Snowflake, optimizing data governance frameworks, and designing real-time data ingestion pipelines. My work focuses on empowering organizations with efficient and reliable data systems by leveraging tools like Confluent Kafka and SQL for enhanced decision-making and operational efficiency.  
 
-I am passionate about driving continuous improvement and delivering results that exceed expectations while maintaining the highest professional standards. My experience and skills make me a valuable asset to any organization looking to use data to drive business success. 
-
-
-TECHNOLOGIES & TOOLS 🔧
-• Database & Data Warehouse: SQL, DB2, Snowflake, Netezza, DataBricks, Oracle, MySQL, SSRS, SSIS, SQLite, MS Access
-• Data Analytics: Tableau, Power BI, Plotly, ggplot2, Data Visualization, Data Acquisition & preprocessing 
-• Programming skills: Python (Pandas, NumPy, Scikit-learn, NLTK, Matplotlib, Seaborn), R, SAS 
-• Clouds: AWS, MS Azure, GCP
-• Scripting: Unix/Linux, Command-Line
-• Tools: Informatica, Squirrel, Aginity, Anaconda(Jupyter), Gitlab, MS Excel, Visual Studio, Jira 
-• Statistics: Error Metrics, Random Sampling, Predictive Modeling, Descriptive Modeling
-• Machine Learning: Linear regression, Logistic regression, Decision Tree, Ensemble, Support Vector Machines, K means, K-Nearest Neighbor, Neural Networks, Bagging, Boosting, Perceptron, Random Forest, Natural Language Processing 
-
-SOFT SKILLS
-Effective Speaking and Presentation, Curious, Creative, Innovative, Critical thinking, Leadership, Teamwork & Collaboration 
+My mission is to enable ethical, scalable, and transparent data solutions that align with strategic business objectives. By collaborating with cross-functional teams, I contribute to improving data quality and delivering actionable insights. My work is driven by the goal of building trust in data systems and facilitating informed decision-making through cutting-edge technologies.
 
 
 
